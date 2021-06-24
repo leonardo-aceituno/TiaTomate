@@ -1,0 +1,21 @@
+.button {
+    padding: .7rem 2rem;
+    border-radius: 50px;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $medium;
+    color: $taupe-gray;
+}
+.button_positive {
+        background-color: $white;
+        border-color: $gray;
+}
+
+.button_positive:hover {
+        background-color: $salmon;
+        border-color: $gray;
+        color: $white;
+        }
+
+
+

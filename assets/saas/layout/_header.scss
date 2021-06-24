@@ -1,0 +1,26 @@
+.header_logo {
+    padding: 20px 0 20px 100px;
+    width: 200px;
+}
+
+.header_text {
+    text-align: center;
+    background-color: $jelly-bean;
+    font-family: $raleway;
+    padding: 120px 0;
+
+}
+
+.header_title {
+    color: $white;
+    font-weight: $extra;
+    font-size: $x-large;
+}
+
+.header_title-emphasis {
+    font-weight: $bold;
+}
+
+.header_title-emphasis--size-XL {
+    font-size: $x-large;
+}
